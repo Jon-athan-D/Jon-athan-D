@@ -63,7 +63,7 @@ Coordination transversale des services internes et prestataires. Création de vi
 </tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
-<td width="180" valign="top"><sub>Oct. 2025 → Aujourd'hui</sub></td>
+<td width="180" valign="top"><sub>Mai 2023 → Sept. 2025 </sub></td>
 <td valign="top">
 
 **Chargé de développement sportif**
@@ -133,7 +133,7 @@ Conception d'une identité visuelle complète et supports de communication pour 
 
 <br>
 
-## 🎓 Formation
+## 🎓 Formations passées, en cours et à venir
 
 <br>
 
@@ -142,19 +142,38 @@ Conception d'une identité visuelle complète et supports de communication pour 
 <td width="180" valign="top"><sub>Sept. 2026 → 2027</sub></td>
 <td valign="top">
 
-<img src="https://www.mjm-design.com/assets/images/logo/Logo-ECOLE-MJM-GRAPHIC-DESIGN.webp" > 
+<img src="https://www.mjm-design.com/assets/images/logo/Logo-ECOLE-MJM-GRAPHIC-DESIGN.webp" height="50"/> 
 
 
 <br>
   
 **Conception UI et Webdesign — en alternance** ✦ *Admis pour la rentrée 2026*
+
 `MJM Graphic Design · L'École des Métiers Créatifs`
 
-Diplôme orienté conception d'interfaces, UX et création digitale. `Figma` · `HTML/CSS` · `Wordpress` · `Adobe Suite complète` · `...`
+Diplôme orienté conception d'interfaces, UX et création digitale.
 
-![Identité visuelle](https://img.shields.io/badge/Identité%20visuelle-ff2424?style=flat-square&color=ff2424&labelColor=ff2424)
-![Branding](https://img.shields.io/badge/Branding-ff2424?style=flat-square&color=ff2424&labelColor=ff2424)
-![Gestion](https://img.shields.io/badge/Gestion-ff2424?style=flat-square&color=ff2424&labelColor=ff2424)
+![Figma](https://img.shields.io/badge/Figma-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
+![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-dcfce7?style=flat-square&color=dcfce7&labelColor=dcfce7)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-fef9c3?style=flat-square&color=fef9c3&labelColor=fef9c3)
+![Wordpress](https://img.shields.io/badge/Figma-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
+![...](https://img.shields.io/badge/...-dcfce7?style=flat-square&color=dcfce7&labelColor=dcfce7)
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="180" valign="top"><sub>Mai – Août 2026</sub></td>
+<td valign="top">
+
+**Bloc de compétences — Direction artistique multimédia** ✦ *À venir*
+
+`Studi (en partenariat avec Digital Campus)`
+
+Piloter la conception graphique et interactive pour un projet artistique et multimédia.
+
+</td>
+</tr>
 
 </td>
 </tr>
@@ -163,25 +182,12 @@ Diplôme orienté conception d'interfaces, UX et création digitale. `Figma` · 
 <td width="180" valign="top"><sub>Avr. 2026 → aujourd'hui</sub></td>
 <td valign="top">
 
-**Designer et créateur de contenus design graphique**
-`Balo.studio`
+**Design graphique** ✦ *En cours*
 
-Mise à niveau sur Illustrator & création d'une identité graphique accompagnée d'une stratégie de marque.
+`Balo.studio - Designer et créateur de contenus en design graphique`
 
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td width="180" valign="top"><sub>Avr. – Août 2026</sub></td>
-<td valign="top">
+Mise à niveau sur Illustrator & Créer une identité graphique accompagnée d'une stratégie de marque.
 
-**Bloc de compétences — Direction artistique multimédia**
-`Digital Campus (Studi en partenariat)`
-
-Piloter la conception graphique et interactive pour un projet artistique et multimédia.
-
-</td>
-</tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
 <td width="180" valign="top"><sub>2016 – 2021</sub></td>
@@ -191,9 +197,12 @@ Piloter la conception graphique et interactive pour un projet artistique et mult
 <br>
 
 **Master Économie & Gestion — Sciences du Management et Métiers du Sport**
+
 `Ileps · École Supérieure des Métiers du Sport`
 
-Licence STAPS Management du sport + Master Économie et Gestion.
+**Licence STAPS - Management du sport**
+
+`Ileps · École Supérieure des Métiers du Sport`
 
 </td>
 </tr>
@@ -209,15 +218,15 @@ Licence STAPS Management du sport + Master Économie et Gestion.
 
 <br>
 
-<div align="center">
+<div>
 
-| Design & Création | Web & Tech | Organisation |
+| Design & Création | Web & Tech | Transversale |
 |:-----------------:|:----------:|:------------:|
-| Figma `⬛⬛⬛⬜⬜` | HTML & CSS `⬛⬛⬛⬜⬜` | Notion / Monday `⬛⬛⬛⬛⬜` |
-| Adobe Illustrator `⬛⬛⬛⬜⬜` | VBA / Macros `⬛⬛⬛⬛⬜` | Microsoft Office `⬛⬛⬛⬛⬛` |
-| Adobe Photoshop `⬛⬛⬛⬜⬜` | Microsoft Planner `⬛⬛⬛⬛⬜` | Gestion de projet `⬛⬛⬛⬛⬜` |
-| Canva `⬛⬛⬛⬛⬜` | | Anglais `⬛⬛⬛⬛⬜` |
-| InDesign `⬛⬛⬜⬜⬜` | | |
+|Adobe Illustrator `⬛⬛⬛⬛⬜`|HTML & CSS `⬛⬛⬜⬜⬜`|Notion `⬛⬛⬜⬜⬜` |
+| Figma `⬛⬛⬛⬜⬜` | VBA / Macros `⬛⬛⬛⬜⬜` | Monday `⬛⬛⬛⬜⬜` |
+| Adobe Photoshop `⬛⬛⬜⬜⬜` | Microsoft Office `⬛⬛⬛⬛⬜` | Microsoft Planner `⬛⬛⬛⬜⬜` |
+| Adobe InDesign `⬛⬛⬜⬜⬜` | | Anglais `⬛⬛⬛⬛⬜` |
+| | | |
 
 </div>
 
