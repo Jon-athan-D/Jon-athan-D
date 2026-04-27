@@ -21,11 +21,10 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/jonathan.petit.professionnel%40gmail.com-D0D0D0?style=flat-square&logo=gmail&logoColor=333)](mailto:jonathan.petit.professionnel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/jonathanpetitpro-D0D0D0?style=flat-square&logo=linkedin&logoColor=333)](https://linkedin.com/in/jonathanpetitpro)
-[![Localisation](https://img.shields.io/badge/Jouy--le--Moutier%20(95)-D0D0D0?style=flat-square&logo=googlemaps&logoColor=333)](#)
-[![Téléphone](https://img.shields.io/badge/06.87.63.24.27-D0D0D0?style=flat-square&logo=phone&logoColor=333)](tel:+33687632427)
-
+[![Email](https://img.shields.io/badge/jonathan.petit.professionnel%40gmail.com-D0D0D0?style=flat-square&labelColor=D0D0D0)](mailto:jonathan.petit.professionnel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/jonathanpetitpro-D0D0D0?style=flat-square&labelColor=D0D0D0)](https://linkedin.com/in/jonathanpetitpro)
+[![Domicile](https://img.shields.io/badge/Jouy--le--Moutier%20(95)-D0D0D0?style=flat-square&labelColor=D0D0D0)](#)
+[![Téléphone](https://img.shields.io/badge/06.87.63.24.27-D0D0D0?style=flat-square&labelColor=D0D0D0)](#)
 <br>
 
 </div>
@@ -143,6 +142,11 @@ Conception d'une identité visuelle complète et supports de communication pour 
 <td width="180" valign="top"><sub>Sept. 2026 → 2027</sub></td>
 <td valign="top">
 
+<img src="https://www.mjm-design.com/assets/images/logo/Logo-ECOLE-MJM-GRAPHIC-DESIGN.webp" > 
+
+
+<br>
+  
 **Conception UI et Webdesign — en alternance** ✦ *Admis pour la rentrée 2026*
 `MJM Graphic Design · L'École des Métiers Créatifs`
 
@@ -182,6 +186,9 @@ Piloter la conception graphique et interactive pour un projet artistique et mult
 <tr>
 <td width="180" valign="top"><sub>2016 – 2021</sub></td>
 <td valign="top">
+<img src="https://ileps.fr/wp-content/uploads/2024/07/logo.svg" >
+
+<br>
 
 **Master Économie & Gestion — Sciences du Management et Métiers du Sport**
 `Ileps · École Supérieure des Métiers du Sport`
