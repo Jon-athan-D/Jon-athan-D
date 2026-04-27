@@ -163,14 +163,41 @@ Diplôme orienté conception d'interfaces, UX et création digitale.
 </tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
+<td width="180" valign="top"><sub>Sept. 2026 → 2027</sub></td>
+<td valign="top">
+
+<img src="https://www.mjm-design.com/assets/images/logo/Logo-ECOLE-MJM-GRAPHIC-DESIGN.webp" height="50"/> 
+  
+**Mise à niveau Design Graphique** ✦ *À venir*
+
+`Directrice artistique - MJM Graphic Design · L'École des Métiers Créatifs`
+
+Cours particuliers en design graphique, direction artistique et communication visuelle.
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-dcfce7?style=flat-square&color=dcfce7&labelColor=dcfce7)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-fef9c3?style=flat-square&color=fef9c3&labelColor=fef9c3)
+![Adobe AfterEffect](https://img.shields.io/badge/Adobe%20AfterEffect-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
 <td width="180" valign="top"><sub>Mai – Août 2026</sub></td>
 <td valign="top">
 
-**Bloc de compétences — Direction artistique multimédia** ✦ *À venir*
+<img src="https://www.digital-campus.fr/sites/all/themes/digital_campus/img/logos/logo-digital-campus-dark.svg" height="50" />
+
+**Bloc de compétences — Direction artistique multimédia** ✦ *Admis*
 
 `Studi (en partenariat avec Digital Campus)`
 
 Piloter la conception graphique et interactive pour un projet artistique et multimédia.
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-dcfce7?style=flat-square&color=dcfce7&labelColor=dcfce7)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-fef9c3?style=flat-square&color=fef9c3&labelColor=fef9c3)
+![Adobe AfterEffect](https://img.shields.io/badge/Adobe%20AfterEffect-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
 
 </td>
 </tr>
@@ -182,11 +209,18 @@ Piloter la conception graphique et interactive pour un projet artistique et mult
 <td width="180" valign="top"><sub>Avr. 2026 → aujourd'hui</sub></td>
 <td valign="top">
 
+<img src="https://balo.studio/wp-content/uploads/2026/04/Balo-studio-logo.svg" height="50"/>
+
 **Design graphique** ✦ *En cours*
 
 `Balo.studio - Designer et créateur de contenus en design graphique`
 
 Mise à niveau sur Illustrator & Créer une identité graphique accompagnée d'une stratégie de marque.
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-dcfce7?style=flat-square&color=dcfce7&labelColor=dcfce7)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-fef9c3?style=flat-square&color=fef9c3&labelColor=fef9c3)
+![Adobe AfterEffect](https://img.shields.io/badge/Adobe%20AfterEffect-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
 
 <tr><td colspan="2"><br></td></tr>
 <tr>
@@ -226,7 +260,6 @@ Mise à niveau sur Illustrator & Créer une identité graphique accompagnée d'u
 | Figma `⬛⬛⬛⬜⬜` | VBA / Macros `⬛⬛⬛⬜⬜` | Monday `⬛⬛⬛⬜⬜` |
 | Adobe Photoshop `⬛⬛⬜⬜⬜` | Microsoft Office `⬛⬛⬛⬛⬜` | Microsoft Planner `⬛⬛⬛⬜⬜` |
 | Adobe InDesign `⬛⬛⬜⬜⬜` | | Anglais `⬛⬛⬛⬛⬜` |
-| | | |
 
 </div>
 
@@ -303,13 +336,13 @@ Développement de solutions d'automatisation sur Excel et Word pour répondre à
 |:-:|:--------|:------:|:----:|
 | 📄 | Curriculum Vitae | PDF | [**Télécharger →**](./CV_Jonathan_Petit.pdf) |
 | ✉️ | Lettre de motivation | PDF | [**Télécharger →**](./LM_Jonathan_Petit.pdf) |
-| 📋 | Dossier de présentation | PDF | [**Télécharger →**](./Dossier_Jonathan_Petit.pdf) |
+| 📋 | Dossier de présentation | PDF | [**Télécharger →**](./Presentation_Jonathan_Petit.pdf) |
 
 </div>
 
 <br>
 
-> 💡 *Les fichiers sont disponibles directement dans ce dépôt. Cliquez sur les liens ci-dessus pour les consulter ou les télécharger.*
+> 💡 *Même si cette petite version README.md a été cool à faire pour vous, j'ai tout de même des versions "classiques" que vous pouvez télécharger au dessus.*
 
 <br>
 
