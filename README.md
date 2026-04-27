@@ -16,11 +16,6 @@
 
 <br>
 
-*Issu d'un parcours de 6 ans dans la coordination de projets et le développement,*
-*je construis aujourd'hui un projet de reconversion vers le design d'interface.*
-
-<br>
-
 [![Email](https://img.shields.io/badge/jonathan.petit.professionnel%40gmail.com-D0D0D0?style=flat-square&labelColor=D0D0D0)](mailto:jonathan.petit.professionnel@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/jonathanpetitpro-D0D0D0?style=flat-square&labelColor=D0D0D0)](https://linkedin.com/in/jonathanpetitpro)
 [![Domicile](https://img.shields.io/badge/Jouy--le--Moutier%20(95)-D0D0D0?style=flat-square&labelColor=D0D0D0)](#)
