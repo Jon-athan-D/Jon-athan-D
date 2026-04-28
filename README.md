@@ -365,10 +365,10 @@ Développement de solutions d'automatisation sur Excel et Word pour répondre à
 
 <div align="center">
 
-<sub>Handball · Golf · Cuisine · Jardinage · Famille</sub>
+<sub><H2>Handball · Golf · Cuisine · Jardinage · Famille</H2></sub>
 
 <br>
 
-<sub>Fait avec intention · Jouy-le-Moutier, 2026</sub>
+<sub>Fait avec motivation · Strutured by Claude.AI & adjust with ⌨ </sub>
 
 </div>
