@@ -366,11 +366,11 @@ Développement de solutions d'automatisation sur Excel et Word pour répondre à
 
 ---
 
-<br>
-
 <div align="center">
 
 <sub><H3>Handball · Golf · Cuisine · Jardinage · Famille</H3></sub>
+
+---
 
 <br>
 
