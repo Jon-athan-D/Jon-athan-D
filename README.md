@@ -320,6 +320,9 @@ Développement de solutions d'automatisation sur Excel et Word pour répondre à
 </tr>
 </table>
 
+> [!NOTE]
+> Mes projets créatifs sélectionnés ci-dessus sont synthétiquement présentés dans mon dossier de présentation.
+
 <br>
 
 ---
