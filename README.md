@@ -28,11 +28,22 @@
 
 <br>
 
-Mon intérêt pour la communication visuelle s'est construit progressivement sur toute ma carrière — de la création de supports de présentation jusqu'à la conception d'identités visuelles en freelance, en passant par le développement de solutions d'automatisation en VBA. Ce fil conducteur m'a conduit vers le design d'interface, là où compréhension des besoins, logique fonctionnelle et mise en œuvre visuelle se rejoignent.
+## 📋 En résumé
 
 <br>
 
----
+<div align="center">
+
+| 2019 – 2025 | → | Avr. 2026 | → | Mai – Août 2026 | → | **Sept. 2026 – 2027** |
+|:-----------:|:-:|:---------:|:-:|:---------------:|:-:|:---------------------:|
+| Coordination, développement sportif, événementiel & relation client | | Formation Balo.studio | | Studi × Digital Campus | | **✦<br>MJM Graphic Design<br>✦** |
+| Conseil dép. Val d'Oise · ChannelAdvisor | | Design graphique · Illustrator · Stratégie de marque | | Bloc de compétences - Direction artistique multimédia | | **Conception UI & Web design — Alternance** |
+
+</div>
+
+<br>
+
+Au fil de mes premières expériences, la communication visuelle a occupé une place croissante : création de supports de présentation, bricolage de visuels, jusqu'à une première activité freelance en création d'identité visuelle. En parallèle, j'ai développé une logique fonctionnelle à travers l'automatisation de processus en VBA, une façon d'aborder les problèmes d'usage avant de connaître le mot UX. Ce fil conducteur m'a conduit vers le design d'interface, là où compréhension des besoins, rigueur fonctionnelle et mise en œuvre visuelle se rejoignent.
 
 <br>
 
@@ -177,7 +188,7 @@ Cours particuliers en design graphique, direction artistique et communication vi
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-dcfce7?style=flat-square&color=dcfce7&labelColor=dcfce7)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-fef9c3?style=flat-square&color=fef9c3&labelColor=fef9c3)
-![Adobe AfterEffect](https://img.shields.io/badge/Adobe%20AfterEffect-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
 
 </td>
 </tr>
@@ -197,7 +208,7 @@ Piloter la conception graphique et interactive pour un projet artistique et mult
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-dcfce7?style=flat-square&color=dcfce7&labelColor=dcfce7)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-fef9c3?style=flat-square&color=fef9c3&labelColor=fef9c3)
-![Adobe AfterEffect](https://img.shields.io/badge/Adobe%20AfterEffect-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
 
 </td>
 </tr>
@@ -220,7 +231,7 @@ Mise à niveau sur Illustrator & Créer une identité graphique accompagnée d'u
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-dcfce7?style=flat-square&color=dcfce7&labelColor=dcfce7)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-fef9c3?style=flat-square&color=fef9c3&labelColor=fef9c3)
-![Adobe AfterEffect](https://img.shields.io/badge/Adobe%20AfterEffect-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
 
 <tr><td colspan="2"><br></td></tr>
 <tr>
@@ -345,7 +356,7 @@ Développement de solutions d'automatisation sur Excel et Word pour répondre à
 
 <br>
 
-> 💡 *Même si cette petite version README.md a été cool à faire pour vous, j'ai tout de même des versions "classiques" que vous pouvez retrouvez via les liens au dessus.*
+> 💡 *Si vous préférez les formats traditionnels et plus de détails, les versions "classiques" sont accessibles via les liens ci-dessus.*
 
 <br>
 
@@ -377,6 +388,6 @@ Développement de solutions d'automatisation sur Excel et Word pour répondre à
 
 <br>
 
-<sub><H5>Specially designed for applying to ThinkR · Strutured by Claude.AI & adjust with keybord ⌨ </H5></sub>
+<sub><H5>Specially designed for applying to ThinkR · Structured by Claude.ai & adjust with keyboard ⌨ </H5></sub>
 
 </div>
