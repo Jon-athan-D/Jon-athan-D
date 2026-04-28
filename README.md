@@ -174,7 +174,7 @@ Diplôme orienté conception d'interfaces, UX et création digitale.
 </tr>
 <tr><td colspan="2"><br></td></tr>
 <tr>
-<td width="180" valign="top"><sub>Mai 2026 → Août 2026</sub></td>
+<td width="180" valign="top"><sub>Mai - Août 2026</sub></td>
 <td valign="top">
 
 <img src="https://www.mjm-design.com/assets/images/logo/Logo-ECOLE-MJM-GRAPHIC-DESIGN.webp" height="50"/> 
@@ -267,8 +267,8 @@ Mise à niveau sur Illustrator & Créer une identité graphique accompagnée d'u
 
 | Design & Création | Web & Tech | Transversale |
 |:-----------------:|:----------:|:------------:|
-|Adobe Illustrator `⬛⬛⬛⬛⬜`|HTML & CSS `⬛⬛⬜⬜⬜`|Notion `⬛⬛⬜⬜⬜` |
-| Figma `⬛⬛⬛⬜⬜` | VBA / Macros `⬛⬛⬛⬜⬜` | Monday `⬛⬛⬛⬜⬜` |
+| Figma `⬛⬛⬛⬜⬜` |HTML & CSS `⬛⬛⬜⬜⬜`|Notion `⬛⬛⬜⬜⬜` |
+| Adobe Illustrator `⬛⬛⬛⬛⬜`| VBA / Macros `⬛⬛⬛⬜⬜` | Monday `⬛⬛⬛⬜⬜` |
 | Adobe Photoshop `⬛⬛⬜⬜⬜` | Microsoft Office `⬛⬛⬛⬛⬜` | Microsoft Planner `⬛⬛⬛⬜⬜` |
 | Adobe InDesign `⬛⬛⬜⬜⬜` | | Anglais `⬛⬛⬛⬛⬜` |
 
