@@ -46,7 +46,8 @@ Mon intérêt pour la communication visuelle s'est construit progressivement sur
 <td valign="top">
 
 **Chargé de coordination et de partenariat**
-`Conseil Départemental du Val d'Oise – Direction Athletica · CDD`
+
+`Conseil départemental du Val d'Oise – Direction Athletica · CDD`
 
 Coordination transversale des services internes et prestataires. Création de visuels (PLV, ILV) pour l'habillage du centre et la visibilité des partenaires. Développement et structuration d'offres sportives et événementielles (B2B/B2C).
 
@@ -62,7 +63,8 @@ Coordination transversale des services internes et prestataires. Création de vi
 <td valign="top">
 
 **Chargé de développement sportif**
-`Conseil Départemental du Val d'Oise – Direction des Sports · CDD`
+
+`Conseil départemental du Val d'Oise – Direction des Sports · CDD`
 
 Pilotage du dispositif d’aide à l’investissement des collectivités pour la construction et la réhabilitation des équipements sportifs. Mise en œuvre d’actions sur le domaine de l’éducation et le parasport. Coordination de 3 éditions de la Cérémonie de remise des labels aux clubs. Conception d’outils pour optimiser les méthodes internes de la Direction.
 
@@ -78,6 +80,7 @@ Pilotage du dispositif d’aide à l’investissement des collectivités pour la
 <td valign="top">
 
 **Client Strategy Associate**
+
 `ChannelAdvisor (devenue Rithum) · CDI`
 
 Transformation de la donnée des marques pour optimiser la mise en ligne des produits. Suivi et analyse de la performance. Collaboration quotidienne Clients / Marketplaces / Commerciales & Gestionnaire de comptes / Support.
@@ -94,7 +97,8 @@ Transformation de la donnée des marques pour optimiser la mise en ligne des pro
 <td valign="top">
 
 **Chargé de mission Olympisme, Paralympisme & Évènementiel**
-`Conseil Départemental du Val d'Oise · Stage / Alternance / CDD`
+
+`Conseil départemental du Val d'Oise · Stage / Alternance / CDD`
 
 Coordination de la démarche Olympique du Département. Développement et suivi de projets portés sur l'Olympisme. Réalisation de supports de communication et préparation du site internet _Val d'Oise, Terre de Jeux_.
 
@@ -110,6 +114,7 @@ Coordination de la démarche Olympique du Département. Développement et suivi 
 <td valign="top">
 
 **Freelance — Design graphique & Audit financier**
+
 `Océan d'Amour (doula) · Martinon et Fils`
 
 Conception d'une identité visuelle complète et supports de communication pour Océan d'Amour. Audit de gestion pour le lancement de l'entreprise Martinon et Fils.
@@ -151,7 +156,7 @@ Diplôme orienté conception d'interfaces, UX et création digitale.
 ![Figma](https://img.shields.io/badge/Figma-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
 ![Adobe Suite](https://img.shields.io/badge/Adobe%20Suite-dcfce7?style=flat-square&color=dcfce7&labelColor=dcfce7)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-fef9c3?style=flat-square&color=fef9c3&labelColor=fef9c3)
-![Wordpress](https://img.shields.io/badge/Figma-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
+![Wordpress](https://img.shields.io/badge/Wordpress-dbeafe?style=flat-square&color=dbeafe&labelColor=dbeafe)
 ![...](https://img.shields.io/badge/...-dcfce7?style=flat-square&color=dcfce7&labelColor=dcfce7)
 
 </td>
@@ -329,15 +334,15 @@ Développement de solutions d'automatisation sur Excel et Word pour répondre à
 
 | | Document | Format | Lien |
 |:-:|:--------|:------:|:----:|
-| 📄 | Curriculum Vitae | PDF | [**Télécharger →**](./CV_Jonathan_Petit.pdf) |
-| ✉️ | Lettre de motivation | PDF | [**Télécharger →**](./LM_Jonathan_Petit.pdf) |
-| 📋 | Dossier de présentation | PDF | [**Télécharger →**](./Presentation_Jonathan_Petit.pdf) |
+| 📄 | Curriculum Vitae | PDF | [**Consulter →**](./CV_Jonathan_Petit.pdf) |
+| ✉️ | Lettre de motivation | PDF | [**Consulter →**](./LM_Jonathan_Petit.pdf) |
+| 📋 | Dossier de présentation | PDF | [**Consulter →**](./Presentation_Jonathan_Petit.pdf) |
 
 </div>
 
 <br>
 
-> 💡 *Même si cette petite version README.md a été cool à faire pour vous, j'ai tout de même des versions "classiques" que vous pouvez télécharger au dessus.*
+> 💡 *Même si cette petite version README.md a été cool à faire pour vous, j'ai tout de même des versions "classiques" que vous pouvez retrouvez via les liens au dessus.*
 
 <br>
 
@@ -365,10 +370,10 @@ Développement de solutions d'automatisation sur Excel et Word pour répondre à
 
 <div align="center">
 
-<sub><H2>Handball · Golf · Cuisine · Jardinage · Famille</H2></sub>
+<sub><H3>Handball · Golf · Cuisine · Jardinage · Famille</H3></sub>
 
 <br>
 
-<sub>Fait avec motivation · Strutured by Claude.AI & adjust with ⌨ </sub>
+<sub><H5>Specially designed for applying to ThinkR · Strutured by Claude.AI & adjust with keybord ⌨ </H5></sub>
 
 </div>
